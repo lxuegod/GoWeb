@@ -1,4 +1,4 @@
-## go-rpc
+## go-RPC
 
 基于Go标准库`net/rpc`实现的简易RPC框架，实现了
 
