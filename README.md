@@ -11,4 +11,4 @@
   - 实现了**随机**、**轮询**两种负载均衡
 - 简单的注册中心，支持**服务注册**、**心跳保活**等功能
 
-[实现主要参考]((https://geektutu.com/post/gee.html))
+[实现主要参考](https://geektutu.com/post/gee.html)
